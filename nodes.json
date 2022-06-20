@@ -1,0 +1,14 @@
+[
+    {
+        "url": "st-au1.spacedrive.com",
+        "cert": "insert-some-long-b64-encoded-der"
+    },
+    {
+        "url": "st-au2.spacedrive.com",
+        "cert": "insert-some-long-b64-encoded-der"
+    },
+    {
+        "url": "st-us1.spacedrive.com",
+        "cert": "insert-some-long-b64-encoded-der"
+    }
+]
